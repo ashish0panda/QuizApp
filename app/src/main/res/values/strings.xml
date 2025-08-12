@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="quiz">QUIZ</string>
+    <string name="application">APPLICATION</string>
+    <string name="made_by_ashish">❤ Made by Ashish</string>
+    <string name="create_an_account">CREATE AN ACCOUNT</string>
+    <string name="logo">logo</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="refer_code">Refer Code</string>
+    <string name="submit">Submit</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login_with_account">Login with account</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="login">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quiz_icon">quiz icon</string>
+    <string name="instructions">Instructions</string>
+    <string name="choose_category">- Choose Category</string>
+    <string name="play_quiz">- Play Quiz</string>
+    <string name="collect_coins">- Collect Coins</string>
+    <string name="earn_money">- Earn Money</string>
+    <string name="spin_wheel">Spin Wheel</string>
+    <string name="invite_friends">Invite Friends</string>
+    <string name="_24">24</string>
+    <string name="_1_10">1/10</string>
+    <string name="who_invented_android_studio">Who invented android studio?</string>
+    <string name="flifeline">flifeline</string>
+    <string name="textview">TextView</string>
+    <string name="next">Next</string>
+    <string name="quit">Quit</string>
+    <string name="laudianc">laudianc</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="trophy">trophy</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="your_score">YOUR SCORE</string>
+    <string name="_8_10">8/10</string>
+    <string name="earned_coins">EARNED COINS</string>
+    <string name="_500">500</string>
+    <string name="share">Share</string>
+    <string name="restart">Restart</string>
+    <string name="current_coins">Current Coins</string>
+    <string name="_0">0</string>
+    <string name="_50_000_coins_required_to_withdraw">50.000 coins required to withdraw</string>
+    <string name="send_request">Send Request</string>
+    <string name="paypal_email_address">Paypal Email Address</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="name">Name</string>
+    <string name="_1">#1</string>
+    <string name="mian_asad_ali">Mian Asad Ali</string>
+    <string name="_24665">24665</string>
+    <string name="avtar">avtar</string>
+    <string name="logout">Logout</string>
+    <string name="you_ve_already_spin_today_ncome_back_tomorrow_for_another_chance">You\'ve already spined today!\nCome back tomorrow for another chance.</string>
+</resources>

@@ -1,0 +1,34 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CET/QuizApp/app/src/main/res/drawable-v24/background.xml" value="0.2203125" />
+        <entry key="..\:/CET/QuizApp/app/src/main/res/font/arizonia.xml" value="0.1" />
+        <entry key="..\:/CET/QuizApp/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/CET/QuizApp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/CET/QuizApp/app/src/main/res/layout/activity_quiz.xml" value="0.20416666666666666" />
+        <entry key="..\:/CET/QuizApp/app/src/main/res/layout/activity_result.xml" value="0.20416666666666666" />
+        <entry key="..\:/CET/QuizApp/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/CET/QuizApp/app/src/main/res/layout/activity_spinner.xml" value="0.20416666666666666" />
+        <entry key="..\:/CET/QuizApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/CET/QuizApp/app/src/main/res/layout/content_result.xml" value="0.20416666666666666" />
+        <entry key="..\:/CET/QuizApp/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/CET/QuizApp/app/src/main/res/layout/fragment_leaderboards.xml" value="0.20416666666666666" />
+        <entry key="..\:/CET/QuizApp/app/src/main/res/layout/fragment_profile.xml" value="0.18" />
+        <entry key="..\:/CET/QuizApp/app/src/main/res/layout/fragment_wallet.xml" value="0.20416666666666666" />
+        <entry key="..\:/CET/QuizApp/app/src/main/res/layout/item_catagory.xml" value="0.25" />
+        <entry key="..\:/CET/QuizApp/app/src/main/res/layout/item_category.xml" value="0.20416666666666666" />
+        <entry key="..\:/CET/QuizApp/app/src/main/res/layout/lucky_wheel_layout.xml" value="0.16510416666666666" />
+        <entry key="..\:/CET/QuizApp/app/src/main/res/layout/row_leaderboards.xml" value="0.20416666666666666" />
+        <entry key="..\:/CET/QuizApp/app/src/main/res/menu/home_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
